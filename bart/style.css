@@ -1,0 +1,5 @@
+/* Please define your custom styles here */
+
+input[type="range"] {
+  border: none;
+}

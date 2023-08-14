@@ -1,0 +1,13 @@
+/* Please define your custom styles here */
+.flanker-table {
+  width: auto;
+  border: none;
+}
+
+.flanker-table td {
+  color: black;
+  font-size: 4rem;
+  font-weight: bold;
+  text-align: center;
+  width: 5rem;
+}
